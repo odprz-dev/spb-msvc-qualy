@@ -16,10 +16,10 @@ spring:
       uri: mongodb+srv://root:toor@awsm0free.9ags0kb.mongodb.net/?retryWrites=true&w=majority
       database: microservicios
   application:
-    name: CALIFICACION-SERVICE
+    name: QUALIFICATION-SERVICE
 eureka:
-  instance:
-    prefer-ip-address: true
+#  instance:
+#    prefer-ip-address: true
   client:
     fetch-registry: true
     service-url:
