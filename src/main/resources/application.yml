@@ -13,7 +13,7 @@ logging:
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://root:toor@awsm0free.9ags0kb.mongodb.net/?retryWrites=true&w=majority
+      uri: mongodb+srv://xxxx:xxxx@xxxxx.mongodb.net/?retryWrites=true&w=majority
       database: microservicios
   application:
     name: QUALIFICATION-SERVICE
